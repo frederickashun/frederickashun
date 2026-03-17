@@ -27,4 +27,4 @@ I am building hands-on cybersecurity projects to strengthen my skills in governa
 I am focused on growing in cybersecurity, especially in areas such as GRC, vendor risk, and related security roles.
 
 ## Connect With Me
-LinkedIn and other professional links can be added here later.
+- [LinkedIn](https://www.linkedin.com/in/frederickashun)
