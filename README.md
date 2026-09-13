@@ -1,7 +1,9 @@
-#Frederick Ashun
+Frederick Ashun
+
 Cybersecurity student focused on GRC, risk assessment, compliance, and security documentation.
 
-#About Me
+About Me
+
 I specialize in Governance, Risk, and Compliance (GRC), Information Security Controls, and Regulatory Compliance Frameworks.
 
 Core Competencies
