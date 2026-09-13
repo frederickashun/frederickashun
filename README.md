@@ -1,21 +1,23 @@
- # Frederick Ashun
+ Frederick Ashun
 
 Cybersecurity student focused on GRC, risk assessment, compliance, and security documentation.
 
-## About Me
-I am building hands-on cybersecurity projects to strengthen my skills in governance, risk, compliance, and practical security analysis. My goal is to develop a professional portfolio that demonstrates structured thinking, documentation ability, and real-world cybersecurity readiness.
+About Me
+I specialize in Governance, Risk, and Compliance (GRC), Information Security Controls, and Regulatory Compliance Frameworks.
 
-## Current Focus
-- GRC portfolio development
-- NIST CSF 2.0 projects
-- Third-party/vendor risk
-- Cybersecurity job readiness
-- Building professional GitHub projects
+Core Competencies
+- Frameworks & Regulations: NIST CSF, HIPAA, PCI DSS, GDPR, SOX, CCPA
+- Risk Management: Risk Identification, Threat Assessment, Inherent vs. Residual Risk Analysis
+- Governance & Policies: Access Control, Incident Response, Password & Authentication Policies
+- Certifications / Training: CompTIA Security+, ISC2 CC, CISA
 
-## Featured Project
-- [NIST CSF 2.0 Mini Compliance Program](https://github.com/frederickashun/frederickashun-nist-csf-mini-compliance-program)
+Featured GRC Project
+- Access Control & Authentication Policy: Comprehensive policy document covering password security, MFA, and RBAC controls.
+- Enterprise Risk Register & Matrix: Practical risk assessment model mapping threats to business impact and mitigations.
+  
+- NIST CSF 2.0 Mini Compliance Program: (https://github.com/frederickashun/frederickashun-nist-csf-mini-compliance-program)
 
-## Skills I Am Building
+Skills
 - Risk assessment
 - Control gap identification
 - Security documentation
@@ -23,8 +25,5 @@ I am building hands-on cybersecurity projects to strengthen my skills in governa
 - Cybersecurity governance
 - Remediation planning
 
-## Career Direction
-I am focused on growing in cybersecurity, especially in areas such as GRC, vendor risk, and related security roles.
-
-## Connect With Me
+Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/frederickashun)
