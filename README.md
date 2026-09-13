@@ -1,5 +1,4 @@
- Frederick Ashun
-
+Frederick Ashun
 Cybersecurity student focused on GRC, risk assessment, compliance, and security documentation.
 
 About Me
